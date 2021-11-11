@@ -1,3 +1,3 @@
 # LE-C
-A simple yet powerful Lua-C script executor.
-![repository-open-graph-template](https://user-images.githubusercontent.com/94013833/141096423-1186406e-a4ca-4de9-870e-f22579f1603c.png)
+Open Source Lua-C script executor and UI 
+![1](https://user-images.githubusercontent.com/94013833/141225882-f0fa74e1-2fbd-4090-b638-c2ad790bc806.PNG)
